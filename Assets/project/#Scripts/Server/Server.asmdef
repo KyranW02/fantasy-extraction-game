@@ -1,0 +1,21 @@
+{
+    "name": "Server",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c06b797294b17d743ae52a7e79f62c6d",
+        "GUID:92b6b4dcd12c64f46be22df05b771d75",
+        "GUID:55ba8a9cc699d0d41b9e8db6147f841f",
+        "GUID:907fa3e8cbf483f4fbf3fa4485b67784"
+    ],
+    "includePlatforms": [
+        "CloudRendering"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

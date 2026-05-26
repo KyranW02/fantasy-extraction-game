@@ -1,0 +1,17 @@
+{
+    "name": "Combat",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c06b797294b17d743ae52a7e79f62c6d",
+        "GUID:92b6b4dcd12c64f46be22df05b771d75"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
